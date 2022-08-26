@@ -7,7 +7,7 @@
 在 VSCode 扩展中搜索`woTools`安装它。
 
 
-# `woTools` 项目
+# woTools 项目
 
 https://github.com/ahbool/wotools-vscode-plugin
 

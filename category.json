@@ -1,34 +1,42 @@
 [
-    {
-        "id": "text",
-        "displayName": {
-            "en": "Text",
-            "zh-cn": "文本"
-        },
-        "order": 1
+  {
+    "id": "text",
+    "displayName": {
+      "en": "Text",
+      "zh-cn": "文本"
     },
-    {
-        "id": "data-format",
-        "displayName": {
-            "en": "Data Formatting",
-            "zh-cn": "数据格式化"
-        },
-        "order": 2
+    "order": 1
+  },
+  {
+    "id": "data-format",
+    "displayName": {
+      "en": "Data Formatting",
+      "zh-cn": "数据格式化"
     },
-    {
-        "id": "encrypt-decrypt",
-        "displayName": {
-            "en": "Encrypt / Decrypt",
-            "zh-cn": "加密 / 解密"
-        },
-        "order": 3
+    "order": 2
+  },
+  {
+    "id": "encrypt-decrypt",
+    "displayName": {
+      "en": "Encrypt / Decrypt",
+      "zh-cn": "加密 / 解密"
     },
-    {
-        "id": "other",
-        "displayName": {
-            "en": "Othen",
-            "zh-cn": "其它"
-        },
-        "order": 4
-    }
+    "order": 3
+  },
+  {
+    "id": "other",
+    "displayName": {
+      "en": "Othen",
+      "zh-cn": "其它"
+    },
+    "order": 8888
+  },
+  {
+    "id": "local",
+    "displayName": {
+      "en": "Local Tools",
+      "zh-ch": "本地工具"
+    },
+    "order": 9999
+  }
 ]

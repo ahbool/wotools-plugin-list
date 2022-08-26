@@ -5,12 +5,12 @@
 The web page widgets in `woTools` are stored here, and woTools is a VSCode extension.
 
 
-# Install `woTools`: 
+# Install woTools: 
 
 Search for `woTools` in the VSCode extension and install it.
 
 
-# `woTools` project:
+# woTools project:
 
 https://github.com/ahbool/wotools-vscode-plugin
 
